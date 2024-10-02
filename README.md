@@ -49,7 +49,7 @@ The program uses a `.txt` file to store video details (name and duration) in JSO
 ## File Structure
 
 - `youtube_manager.py`: The main Python file that runs the command-line application.
-- `youtube_manager.txt`: Stores the YouTube video details in JSON format.
+- `youtube.txt`: Stores the YouTube video details in JSON format.
 
 ## Dependencies
 
